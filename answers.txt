@@ -5,3 +5,10 @@ Answer: It helps us track and manage changes to code and data. Git is quite popu
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance (ex. Stock Market Trends)
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: With merging, we are taking changes that were already made in one branch and adding it to our main branch.
+However, with rebasing, the changes from the original branch are not added; instead, the main branch replays those changes in its own branch.
+Rebasing allows us to process each commit of the branch step by step and abort some of the changes. We can't do that with merging.
+Merge includes an additional commit, while rebase does not.
