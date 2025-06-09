@@ -12,3 +12,7 @@ Answer: With merging, we are taking changes that were already made in one branch
 However, with rebasing, the changes from the original branch are not added; instead, the main branch replays those changes in its own branch.
 Rebasing allows us to process each commit of the branch step by step and abort some of the changes. We can't do that with merging.
 Merge includes an additional commit, while rebase does not.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to the real-world applications of this course!
